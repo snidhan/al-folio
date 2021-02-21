@@ -7,7 +7,7 @@ first_name: Sheel
 middle_name:
 last_name: Nidhan
 email: snidhan@eng.ucsd.edu
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: I am a fourth-year Ph.D. student at University of California San Diego with Prof. Sarkar. Currently, my research focuses on the turbulent wakes that form behind bluff and slender bodies. I use a combination of high-fidelity numerical solutions and data-driven techniques to uncover the rich dynamics of turbulent wakes. I am also interested in environmental fluid dynamics and want to pursue it in near future. > # the ">" symbol means to ignore newlines until "footer_text:"
 
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
