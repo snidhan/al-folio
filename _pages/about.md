@@ -8,7 +8,7 @@ profile:
   align: right
   image: sheel.jpg
   address: >
-    <p>Lhakhang in Paro, Bhutan</p>
+    <p>At San Diego Safari Park in 2018</p>
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
